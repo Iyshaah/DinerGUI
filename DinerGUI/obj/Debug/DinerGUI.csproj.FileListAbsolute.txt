@@ -1,0 +1,9 @@
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe.config
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\bin\Debug\DinerGUI.exe
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\bin\Debug\DinerGUI.pdb
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csprojResolveAssemblyReference.cache
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\obj\Debug\DinerGUI.Properties.Resources.resources
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\obj\Debug\DinerGUI.csproj.GenerateResource.Cache
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\obj\Debug\DinerGUI.exe
+c:\users\ausreun\documents\visual studio 2013\Projects\DinerGUI\DinerGUI\obj\Debug\DinerGUI.pdb
+C:\Users\Ausreun\Documents\Visual Studio 2013\Projects\DinerGUI\DinerGUI\obj\Debug\DinerGUI.Form1.resources
